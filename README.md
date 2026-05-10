@@ -16,6 +16,7 @@ Remote & Flexible Work Resources
 FlexJobs — https://www.flexjobs.com 
 # career-reentry-resources
 LinkedIn Jobs — https://linkedin.com/jobs
+
 [Download the full 30-page research PDF](./career-gap-analysis.pdf)
 
 ## Project Files
